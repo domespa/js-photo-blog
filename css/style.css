@@ -1,0 +1,25 @@
+/* FONT */
+
+body {
+    font-family: 'Edu TAS Beginner', sans-serif;
+}
+
+/* HEADER */
+header {
+    background-image: url(../img/wall.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+header h1 {
+    font-size: 75px;
+    font-weight: bold;
+}
+
+/* MAIN */ 
+main {
+    background-image: url(../img/cork.png);
+    height: 100%;
+}
